@@ -2,4 +2,6 @@
 A boiler plate for android apk.
 
 # Build
-*TBD*
+```
+gradle build
+```
